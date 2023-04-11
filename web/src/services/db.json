@@ -1,0 +1,22 @@
+{
+    "movies": [
+        {
+            "Title": "Avatar: The",
+            "imdbRating": "7.8",
+            "imdbID": "tt1630029",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Avatar:",
+            "imdbRating": "7.8",
+            "imdbID": "tt1630028",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Avatar: The Way ",
+            "imdbRating": "7.8",
+            "imdbID": "tt1630027",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_SX300.jpg"
+        }
+    ]
+}
